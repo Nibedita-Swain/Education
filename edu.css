@@ -1,0 +1,24 @@
+.logo{
+ height: 30px;
+ width: 30px;
+ border-radius: 50%;
+}
+.container-fluid {
+    background-color: rgb(236, 227, 201);
+    padding: 10px;
+    margin: 0px;
+    max-width: 100%;
+}
+
+.nav-link {
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+    text-align: center;
+}
+
+.class-link {
+    text-decoration: none;
+    cursor: pointer;
+    color: rgba(34, 31, 31, 0.863);
+}
